@@ -1,0 +1,32 @@
+{
+  "name": "grunt-lib",
+  "version": "1.0.0",
+  "description": "javascript library porject template with grunt ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "grunt watch",
+    "build": "grunt build",
+    "test": "karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samchen08/grunt-lib.git"
+  },
+  "keywords": [
+    "grunt",
+    "jasmine"
+  ],
+  "author": "kenny.chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samchen08/grunt-lib/issues"
+  },
+  "homepage": "https://github.com/samchen08/grunt-lib#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
