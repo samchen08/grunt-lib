@@ -1,4 +1,7 @@
-karma ＋ jasmine 自动化测试安装过程
+
+# 使用说明
+
+## karma ＋ jasmine 自动化测试安装过程
 
 一、安装Jasmine
 
@@ -64,14 +67,13 @@ karma ＋ jasmine 自动化测试安装过程
 package.json命令:
 
     npm run dev
-
     npm run test
-
     npm run build 
 
 
 
- 
+
+
 
 
 
